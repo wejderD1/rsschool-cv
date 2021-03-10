@@ -15,6 +15,13 @@ EDUCATION
 
 KNOWLEDGE OF FOREIGN LANGUAGES
 -
-English - Elementary A2 Polish - free
+* English - Elementary
+* A2 Polish - free
+
 PERSONAL INFORMATION
-Communication skills, active life Resistance to stress Focus on results Commitment to the development and professional growth Hobbies - programming from JS, HTML, CSS, SASS, Node js, database development
+-
+* Communication skills, active life 
+* Resistance to stress 
+* Focus on results 
+* Commitment to the development and professional growth 
+* Hobbies - programming from JS, HTML, CSS, SASS, Node js, database development
