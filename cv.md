@@ -1,4 +1,4 @@
-Hnatiuk Yurii
+HNATIUK YURII
 =  
 Date of birth: **13.02.1986** Nationality: **Ukraine** Address: **Poland, Radomsko** Phone: **+48-799-613-331** E-mail: **wejderd1@gmail.com**
 
